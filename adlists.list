@@ -20,3 +20,10 @@ https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV.txt
 https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt
 https://zerodot1.gitlab.io/CoinBlockerLists/hosts
 https://raw.githubusercontent.com/DandelionSprout/adfilt/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersPiHole.txt
+https://raw.githubusercontent.com/matomo-org/referrer-spam-blacklist/master/spammers.txt
+https://hosts-file.net/exp.txt
+https://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt
+https://raw.githubusercontent.com/HorusTeknoloji/TR-PhishingList/master/url-lists.txt
+https://www.malwaredomainlist.com/hostslist/hosts.txt
+https://hosts-file.net/emd.txt
+https://raw.githubusercontent.com/Dawsey21/Lists/master/main-blacklist.txt

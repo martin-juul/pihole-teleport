@@ -21,3 +21,11 @@ tomshardware.com
 s.shopify.com
 keystone.mwbsys.com
 drugs.com
+res.cloudinary.com
+www.bit.ly
+bit.ly
+ow.ly
+j.mp
+goo.gl
+tinyurl.com
+youtu.be
